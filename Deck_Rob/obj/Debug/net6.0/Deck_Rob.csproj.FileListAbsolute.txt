@@ -1,0 +1,14 @@
+C:\Users\robar\source\repos\Deck_Rob\bin\Debug\net6.0\Deck_Rob.exe
+C:\Users\robar\source\repos\Deck_Rob\bin\Debug\net6.0\Deck_Rob.deps.json
+C:\Users\robar\source\repos\Deck_Rob\bin\Debug\net6.0\Deck_Rob.runtimeconfig.json
+C:\Users\robar\source\repos\Deck_Rob\bin\Debug\net6.0\Deck_Rob.dll
+C:\Users\robar\source\repos\Deck_Rob\bin\Debug\net6.0\Deck_Rob.pdb
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.AssemblyInfoInputs.cache
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.AssemblyInfo.cs
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.csproj.CoreCompileInputs.cache
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.dll
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\refint\Deck_Rob.dll
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.pdb
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\Deck_Rob.genruntimeconfig.cache
+C:\Users\robar\source\repos\Deck_Rob\obj\Debug\net6.0\ref\Deck_Rob.dll
