@@ -12,6 +12,11 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+/* PROG 201 Craft Project
+ * Your Name: 
+ * Date: 
+ * Credits: 
+ * */
 
 namespace RealCraftProject
 {
