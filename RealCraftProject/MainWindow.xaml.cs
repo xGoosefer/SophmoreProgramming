@@ -28,6 +28,7 @@ namespace RealCraftProject
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }

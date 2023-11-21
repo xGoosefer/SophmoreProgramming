@@ -7,6 +7,34 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <StackPanel>
+            <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                <Button x:Name="btnGimmeStuff" Click="btnGimmeStuff_Click" >Gimme Stuff</Button>
+                <Button x:Name="btnTimerToggle" Click="btnTimerToggle_Click" >Start Timer</Button>
+                <Label>Time:</Label>
+                <Label x:Name="lblTime"></Label>
+            </StackPanel>
+            <StackPanel >
+                <Label FontWeight="Bold">Inventory</Label>
+                <ListBox  x:Name="cInventory" MaxHeight="200">
+
+                </ListBox>
+                <Button x:Name="btnAddToCraftingInventory" Click="btnAddToCraftingInventory_Click">
+                    Add to Crafting
+                </Button>
+            </StackPanel>
+            <StackPanel >
+                <Label FontWeight="Bold">Crafting Inventory</Label>
+                <ListBox  x:Name="cCraftingInventory" MaxHeight="200">
+
+                </ListBox>
+                <Button x:Name="btnRemoveFromCraftingInventory" Click="btnRemoveFromCraftingInventory_Click">
+                    Remove from Crafting
+                </Button>
+            </StackPanel>
+            <ComboBox x:Name="cRecipe"></ComboBox>
+            <Button x:Name="btnCraft" Click="btnCraft_Click">Craft</Button>
+        </StackPanel>
 
     </Grid>
 </Window>
