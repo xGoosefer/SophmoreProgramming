@@ -1,0 +1,12 @@
+11/21/2023
+
+XCode is older than Visual Studio.
+Visual Studio is still better.
+Most devices run on andriod.
+Google does not work in China due to wierd rules.
+Vanilla andriod is open source & free.
+Google smoke like the store default search and so on is the alternative to vanilla andriod run by google.
+IDE is amdriod but also IntelliJ (another open source tool).
+You can put your andriod phone in developer mode.
+Andriod runs on Intel.
+Andriod requires multiple image sizes to play apps on any screen.
