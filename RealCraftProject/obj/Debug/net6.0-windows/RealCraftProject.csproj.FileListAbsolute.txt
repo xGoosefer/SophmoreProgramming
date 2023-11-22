@@ -2,3 +2,7 @@ C:\Users\robar\Downloads\RobertoAR_Craft-1\RealCraftProject\obj\Debug\net6.0-win
 C:\Users\robar\Downloads\RobertoAR_Craft-1\RealCraftProject\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\robar\Downloads\RobertoAR_Craft-1\RealCraftProject\obj\Debug\net6.0-windows\RealCraftProject_MarkupCompile.cache
 C:\Users\robar\Downloads\RobertoAR_Craft-1\RealCraftProject\obj\Debug\net6.0-windows\RealCraftProject_MarkupCompile.lref
+C:\SophmoreProgramming\RealCraftProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\SophmoreProgramming\RealCraftProject\obj\Debug\net6.0-windows\App.g.cs
+C:\SophmoreProgramming\RealCraftProject\obj\Debug\net6.0-windows\RealCraftProject_MarkupCompile.cache
+C:\SophmoreProgramming\RealCraftProject\obj\Debug\net6.0-windows\RealCraftProject_MarkupCompile.lref
